@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Mi nombre es Aurelio Cabello, Estuadiante de Ingenieria en desarrollo de software y desarrollador full-stack</div>  
+### <div align="center">Mi nombre es Aurelio Cabello, Estudiante de Ingenieria en desarrollo de software y desarrollador full-stack</div>  
   
 
 - 🔭 Actualmente en tercer año de la carrera  
